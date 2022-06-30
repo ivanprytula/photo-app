@@ -1,5 +1,8 @@
 {
   "name": "photo-app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": ">=0.10.3 <15"
+  }
 }
